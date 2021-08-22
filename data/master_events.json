@@ -1,0 +1,23 @@
+{
+    "events" : [
+        {
+            "code" : "ICTS01",
+            "topic" : "Kebakaran Hutan",
+            "banner" : "https://google.com",
+            "description" : "<p>html</p>"
+        },
+        {
+            "code" : "ICTS02",
+            "topic" : "Kebakaran Hutan Gambut",
+            "banner" : "https://google.com",
+            "description" : "<p>html</p>"
+        },
+        {
+            "code" : "ICTS03",
+            "topic" : "Kebakaran Hutan Bawah Tanah",
+            "banner" : "https://google.com",
+            "description" : "<p>html</p>"
+        }
+        
+    ]
+}

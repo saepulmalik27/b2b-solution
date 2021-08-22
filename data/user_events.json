@@ -1,0 +1,16 @@
+{
+    "user_events" : [
+        {
+            "email" : "saepulalmalik@gmail.com",
+            "event_code" : "ICTS01"
+        },
+        {
+            "email" : "saepulalmalik@gmail.com",
+            "event_code" : "ICTS02"
+        },
+        {
+            "email" : "malik@inspigo.id",
+            "event_code" : "ICTS01"
+        }
+    ]
+}

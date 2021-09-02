@@ -1,7 +1,6 @@
 {
     "navigation": [
       { "title": "Tentang", "id": "tentang" },
-      { "title": "Jadwal Saya", "id": "jadwalsaya" },
       { "title": "Konten Pembelajaran", "id": "kontenpembelajaran" },
       { "title": "Statistik Pembelajaran", "id": "statistikpembelajaran" },
       { "title": "Kompetisi", "id": "kompetisi" },

@@ -5,6 +5,7 @@
     { "title": "Konten Pembelajaran", "id": "kontenpembelajaran" },
     { "title": "Statistik Pembelajaran", "id": "statistikpembelajaran" },
     { "title": "Kompetisi", "id": "kompetisi" },
+    { "title": "Latar Virtual", "id": "latarvirtual" },
     { "title": "Foto Virtual", "id": "fotovirtual" },
     { "title": "FAQ", "id": "faq" }
   ],
@@ -22,7 +23,7 @@
         "content": "https://cdn.inspigo.id/public/mlc2021/Illu/logo_mlc.png"
       },
       "description": "<p style='color : #173A70' > #MandirianPembelajarTangguh <br /> <br /><div style='display: flex; align-items: center;'> <img src='https://cdn.inspigo.id/public/mlc2021/Icon/instagram.svg'>  <a href='https://www.instagram.com/lifeatmug/?hl=en' target='_blank'>&nbsp; @lifeatMUG</a></div> <br/> <div style='display: flex; align-items: center'> <img src='https://cdn.inspigo.id/public/mlc2021/Icon/facebook.svg'>  <a href='https://web.facebook.com/lifeatmug/?_rdc=1&_rdr' target='_blank'>&nbsp;@lifeatMUG</a> </div> <br/> <div style='display: flex; align-items: center;'>  </p>",
-      "src": "https://cdn.inspigo.id/public/mlc2021/Illu/hero_section_2.png",
+      "src": "https://ik.imagekit.io/saepulmalik/mlc_region_6/hero_region_6_v2_JmiQ-gGc9W.jpg?updatedAt=1630909113822",
       "cta": []
     },
     {
@@ -64,7 +65,58 @@
       },
       "description": "<p style='color : #173A70'>Jadwal dan detail acara webinar Mandiri Learning Carnival dapat dilihat di sini. Cek dan catat tanggalnya agar tidak ketinggalan! Kelas akan dibuka setengah jam sebelum acara dimulai.</p>",
       "contentType": "list",
-      "contents": []
+      "contents": [
+        {
+          "title": "",
+          "list_content": [
+            {
+              "src": "https://cdn.inspigo.id/public/mlc2021/event/event_mlc_190821_3.jpg",
+              "event": {
+                "code": "R2DA",
+                "title": "Data Analytic",
+                "content": "<p> <b> Tanggal & Waktu </b> : <br/> 3 Agustus 2021, 09.15 -12.00 WIB <br/><br/>  <b>Speaker</b> : <br/> Chalit Tayjasanant, Edy Widjaja, Abdy Dharma Salimin</p>"
+              },
+              "cta": [
+                {
+                  "title": "Masuk",
+                  "url": "https://zoom.us/j/93209882108?pwd=aktBTjQwUFlqc1ZvWmJzOGJGRlVGUT09",
+                  "disabled": false
+                }
+              ]
+            },
+            {
+              "src": "https://cdn.inspigo.id/public/mlc2021/event/event_mlc_190821_3.jpg",
+              "event": {
+                "code": "R2DW",
+                "title": "Data Wrangling",
+                "content": "<p> <b> Tanggal & Waktu </b> : <br/> 3 Agustus 2021, 09.15 -12.00 WIB <br/><br/>  <b>Speaker</b> : <br/> Chalit Tayjasanant, Edy Widjaja, Abdy Dharma Salimin</p>"
+              },
+              "cta": [
+                {
+                  "title": "Masuk",
+                  "url": "https://zoom.us/j/93209882108?pwd=aktBTjQwUFlqc1ZvWmJzOGJGRlVGUT09",
+                  "disabled": false
+                }
+              ]
+            },
+            {
+              "src": "https://cdn.inspigo.id/public/mlc2021/event/event_mlc_190821_3.jpg",
+              "event": {
+                "code": "R2BD",
+                "title": "Big Data",
+                "content": "<p> <b> Tanggal & Waktu </b> : <br/> 3 Agustus 2021, 09.15 -12.00 WIB <br/><br/>  <b>Speaker</b> : <br/> Chalit Tayjasanant, Edy Widjaja, Abdy Dharma Salimin</p>"
+              },
+              "cta": [
+                {
+                  "title": "Masuk",
+                  "url": "https://zoom.us/j/93209882108?pwd=aktBTjQwUFlqc1ZvWmJzOGJGRlVGUT09",
+                  "disabled": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
     },
     {
       "section": {
@@ -225,7 +277,7 @@
         "style": "blue"
       },
       "description": "<p> Ayo unduh latar virtual ini dan jangan lupa untuk memakainya selama acara Mandiri Learning Carnival 2021</p> ",
-      "src": "https://cdn.inspigo.id/public/mlc2021/Illu/virtual_background.png",
+      "src": "https://ik.imagekit.io/saepulmalik/mlc_region_6/virtual_background_QagURKMuBo2.jpg?updatedAt=1630817653255",
       "reverse": false,
       "cta": [
         {
